@@ -1,3 +1,4 @@
 # first-practice
 
-author -- ritika yadav
+author -- ritika grand ortus
+hryyyyyy
